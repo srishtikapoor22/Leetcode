@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/srishtikapoor22/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/srishtikapoor22/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/srishtikapoor22/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishtikapoor22/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -42,4 +43,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/srishtikapoor22/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/srishtikapoor22/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/srishtikapoor22/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
