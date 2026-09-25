@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/srishtikapoor22/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0054-spiral-matrix](https://github.com/srishtikapoor22/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srishtikapoor22/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/srishtikapoor22/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -30,5 +31,10 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/srishtikapoor22/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishtikapoor22/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/srishtikapoor22/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
