@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/srishtikapoor22/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0054-spiral-matrix](https://github.com/srishtikapoor22/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srishtikapoor22/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/srishtikapoor22/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/srishtikapoor22/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/srishtikapoor22/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -37,4 +38,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/srishtikapoor22/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/srishtikapoor22/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
