@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/srishtikapoor22/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/srishtikapoor22/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srishtikapoor22/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishtikapoor22/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
@@ -20,6 +21,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/srishtikapoor22/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srishtikapoor22/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
