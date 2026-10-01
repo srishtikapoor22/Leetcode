@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/srishtikapoor22/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srishtikapoor22/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/srishtikapoor22/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srishtikapoor22/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srishtikapoor22/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
@@ -24,6 +25,7 @@
 | [0069-sqrtx](https://github.com/srishtikapoor22/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srishtikapoor22/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/srishtikapoor22/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srishtikapoor22/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Math
 | Problem Name | Difficulty |
