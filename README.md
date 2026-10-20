@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/srishtikapoor22/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/srishtikapoor22/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/srishtikapoor22/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/srishtikapoor22/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/srishtikapoor22/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -27,6 +28,7 @@
 | [0035-search-insert-position](https://github.com/srishtikapoor22/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/srishtikapoor22/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srishtikapoor22/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/srishtikapoor22/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/srishtikapoor22/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/srishtikapoor22/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srishtikapoor22/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -57,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/srishtikapoor22/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/srishtikapoor22/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,9 +67,14 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/srishtikapoor22/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/srishtikapoor22/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/srishtikapoor22/Leetcode/tree/main/0069-sqrtx/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/srishtikapoor22/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
