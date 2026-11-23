@@ -91,12 +91,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/srishtikapoor22/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/srishtikapoor22/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/srishtikapoor22/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/srishtikapoor22/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/srishtikapoor22/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/srishtikapoor22/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
